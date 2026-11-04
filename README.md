@@ -1,4 +1,6 @@
 # 3dsimed3 Plugins
+
+3DSimED is a Windows DirectX application allowing the creation and visualization of models from many racing sim formats.
 Some Plugins for the Program 3DSimED3
 
 - Blender (.blend)
