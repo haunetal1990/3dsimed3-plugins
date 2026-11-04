@@ -5,3 +5,8 @@ Some Plugins for the Program 3DSimED3
 - Fatal Racing (.trk)
 - Grand Prix 4 (.wad, .gp4)
 - Planet Coaster (.pcugc, .ovl, .ovs)
+
+---
+
+## Topics
+https://forum.studio-397.com/index.php?threads/3dsimed3-plugins-gp4-planet-coaster-fatal-racing-blender.87668/
