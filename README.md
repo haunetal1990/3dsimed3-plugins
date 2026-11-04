@@ -5,6 +5,7 @@
 - Fatal Racing (.trk)
 - Grand Prix 4 (.wad, .gp4)
 - Planet Coaster (.pcugc, .ovl, .ovs)
+- Planet Coaster 2 (.pcugc, .ovl, .ovs, .aux)
 
 ## Pictures
 ![alt text](https://i.postimg.cc/85whm2ND/GP4-01.jpg "Screenshot 3DSimED 3")
