@@ -6,7 +6,7 @@
 - Planet Coaster (.pcugc, .ovl, .ovs)
 - Planet Coaster 2 (.pcugc, .ovl, .ovs, .aux)
 
-soon:<br />
+soon:
 - Fatal Racing (.trk)
 
 ## Pictures
