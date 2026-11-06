@@ -1,6 +1,7 @@
 # 3dsimed3 Plugins
 3DSimED 3 is a Windows DirectX application allowing the creation and visualization of models from many racing sim formats. And here are some new Plugins for the Program 3DSimED3.
 
+## Version 0.5
 - Blender (.blend)
 - Fatal Racing (.trk)
 - Grand Prix 4 (.wad, .gp4)
@@ -8,6 +9,11 @@
 - Planet Coaster 2 (.pcugc, .ovl, .ovs, .aux)
 
 [Malware Test](https://virusscan.jotti.org/en-en/filescanjob/pjsqh4njpv,cty1szvfj1,4j658payo1,mtetjwavdo,970q7ahyj5)
+
+## Soon
+- Automobilista 2 (.bff)
+- Formula E powered by Virtually Live (.assets, .assets.resS)
+- Autodesk 3ds Max (.max)
 
 ## Pictures
 ![alt text](https://i.postimg.cc/85whm2ND/GP4-01.jpg "Screenshot 3DSimED 3")
