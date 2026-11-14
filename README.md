@@ -12,8 +12,8 @@
 - Planet Coaster (.pcugc, .ovl, .ovs)
 - Planet Coaster 2 (.pcugc, .ovl, .ovs, .aux)
 
-[Malware Test Part 1](https://virusscan.jotti.org/de-DE/filescanjob/2ayathl7cz,n7v0ufhyq1,l52om9jptp,07nv3bn0tb,txe7ss1yt8)
-[Malware Test Part 2](https://virusscan.jotti.org/de-DE/filescanjob/wga8of6yco,mu6on54ugq,npc23is4cl,1f718cogqr)
+[Malware Test Part 1](https://virusscan.jotti.org/en-en/filescanjob/2ayathl7cz,n7v0ufhyq1,l52om9jptp,07nv3bn0tb,txe7ss1yt8)
+[Malware Test Part 2](https://virusscan.jotti.org/en-en/filescanjob/wga8of6yco,mu6on54ugq,npc23is4cl,1f718cogqr)
 
 ## Pictures
 ![alt text](https://i.postimg.cc/85whm2ND/GP4-01.jpg "Screenshot 3DSimED 3")
